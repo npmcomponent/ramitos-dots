@@ -1,6 +1,6 @@
 var html = require('./template'),
-    classes = require('classes'),
-    create = require('domify')
+    classes = require('component-classes'),
+    create = require('component-domify')
     
 var pos = ['one', 'two', 'three'];
 

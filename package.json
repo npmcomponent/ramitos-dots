@@ -1,0 +1,14 @@
+{
+  "name": "ramitos-dots",
+  "description": "loading animation with dots",
+  "version": "0.0.2",
+  "main": "src/dots.js",
+  "styles": [
+    "src/dots.css"
+  ],
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git"
+  },
+  "license": "MIT"
+}
